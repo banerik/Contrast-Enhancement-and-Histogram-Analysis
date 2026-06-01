@@ -1,0 +1,27 @@
+# Prerequisites & CMake Build Outputs
+build/
+bin/
+lib/
+
+# Compiled Executables
+ImageEnhancement
+main
+
+# IDE / Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# LaTeX Auxiliary Files & Compiled PDF
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.pdf
+documentation.tex
+*.tex

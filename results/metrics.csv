@@ -1,0 +1,55 @@
+Imagine,Metoda,Mean,StdDev,Entropy,MSE_vs_OpenCV,PSNR_vs_OpenCV
+afmsurf.bmp,Original,103.256,42.2742,6.89505,0,999
+afmsurf.bmp,Linear Stretch,101.843,42.9517,6.89505,0,999
+afmsurf.bmp,Equalization,128.913,73.4325,6.72766,0.0332315,62.9153
+afmsurf.bmp,CLAHE,134.332,54.0515,7.74519,24.2089,34.2911
+afmsurf.bmp,Gamma Correction (g=0.6),145.232,36.0276,6.71049,0,999
+afmsurf.bmp,Logarithmic,209.783,19.7126,6.11752,0,999
+bacteria.bmp,Original,125.816,37.6995,6.92546,0,999
+bacteria.bmp,Linear Stretch,134.252,40.2367,6.92546,0,999
+bacteria.bmp,Equalization,128.886,73.5039,6.66467,11.1511,37.6576
+bacteria.bmp,CLAHE,138.418,57.4583,7.70469,88.4209,28.6653
+bacteria.bmp,Gamma Correction (g=0.6),163.816,37.0259,6.5367,0,999
+bacteria.bmp,Logarithmic,216.792,36.0226,5.51877,0,999
+cameraman.bmp,Original,118.724,62.3412,7.00972,0,999
+cameraman.bmp,Linear Stretch,115.784,64.6864,7.00972,0.00662231,69.9207
+cameraman.bmp,Equalization,128.814,73.4824,6.76993,0,999
+cameraman.bmp,CLAHE,128.812,64.3085,7.57884,16.5483,35.9433
+cameraman.bmp,Gamma Correction (g=0.6),152.591,61.4123,6.63065,0,999
+cameraman.bmp,Logarithmic,205.81,45.0364,5.71929,0,999
+cell.bmp,Original,118.17,13.8613,4.60241,0,999
+cell.bmp,Linear Stretch,125.027,19.2193,4.60241,0,999
+cell.bmp,Equalization,137.417,74.1811,4.37261,0,999
+cell.bmp,CLAHE,147.052,30.182,6.49729,37.5855,32.3806
+cell.bmp,Gamma Correction (g=0.6),160.426,11.7328,4.2317,0,999
+cell.bmp,Logarithmic,219.512,6.12932,3.29446,0,999
+eight.bmp,Original,198.259,52.8415,4.87956,0,999
+eight.bmp,Linear Stretch,182.274,67.6987,4.87956,0,999
+eight.bmp,Equalization,138.828,77.6754,4.6844,0.00110014,77.7163
+eight.bmp,CLAHE,196.497,57.2604,6.24665,9.08502,38.5475
+eight.bmp,Gamma Correction (g=0.6),216.801,38.6225,4.57438,0,999
+eight.bmp,Logarithmic,241.11,15.8839,3.49502,0,999
+moon.bmp,Original,52.9154,78.0029,5.51279,0,999
+moon.bmp,Linear Stretch,53.3126,78.6398,5.51279,0,999
+moon.bmp,Equalization,136.329,66.4601,5.05718,1.55346,46.2178
+moon.bmp,CLAHE,58.8852,68.9747,6.4857,7.60457,39.3201
+moon.bmp,Gamma Correction (g=0.6),73.1221,82.3678,5.35539,0,999
+moon.bmp,Logarithmic,117.89,79.8729,4.97724,0,999
+pout.bmp,Original,110.304,23.181,5.75989,0,999
+pout.bmp,Linear Stretch,61.7095,39.3964,5.75989,0,999
+pout.bmp,Equalization,130.418,72.6255,5.70844,0.034579,62.7427
+pout.bmp,CLAHE,121.296,39.2251,7.24286,28.9692,33.5114
+pout.bmp,Gamma Correction (g=0.6),153.451,19.2411,5.58917,0,999
+pout.bmp,Logarithmic,215.691,9.43723,4.90242,0,999
+saturn.bmp,Original,50.4938,72.9828,4.114,0,999
+saturn.bmp,Linear Stretch,50.4938,72.9828,4.114,0,999
+saturn.bmp,Equalization,173.488,31.2526,3.62041,17173.4,5.78224
+saturn.bmp,CLAHE,54.3958,72.827,4.16443,10.3497,37.9815
+saturn.bmp,Gamma Correction (g=0.6),64.4261,85.909,3.96644,0,999
+saturn.bmp,Logarithmic,85.4461,107.214,3.57748,0,999
+westconcordorthophoto.bmp,Original,137.846,55.3698,7.7357,0,999
+westconcordorthophoto.bmp,Linear Stretch,131.551,58.3457,7.7357,0.00629766,70.139
+westconcordorthophoto.bmp,Equalization,128.139,73.5835,7.62163,0,999
+westconcordorthophoto.bmp,CLAHE,129.484,71.8622,7.9888,3.04286,43.298
+westconcordorthophoto.bmp,Gamma Correction (g=0.6),172.467,44.231,7.33058,0,999
+westconcordorthophoto.bmp,Logarithmic,222.407,21.6363,6.26391,0,999
